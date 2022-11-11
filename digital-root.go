@@ -1,7 +1,7 @@
 package main
 
 func getDigitalRoot(number int) int {
-  return  (number - 1) % 9 + 1
+  return (number - 1) % 9 + 1
 }
 
 func main() {
